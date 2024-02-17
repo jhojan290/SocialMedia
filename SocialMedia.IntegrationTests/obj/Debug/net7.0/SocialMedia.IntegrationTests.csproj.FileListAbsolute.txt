@@ -1,6 +1,5 @@
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\testhost.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\testhost.exe
-C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\SocialMedia.IntegrationTests.deps.json
@@ -16,7 +15,6 @@ C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\NuGet.Frameworks.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\xunit.abstractions.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\xunit.assert.dll
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\xunit.core.dll
@@ -98,3 +96,4 @@ C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\obj\Debug\
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\obj\Debug\net7.0\SocialMedia.IntegrationTests.pdb
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\obj\Debug\net7.0\SocialMedia.IntegrationTests.genruntimeconfig.cache
 C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\obj\Debug\net7.0\ref\SocialMedia.IntegrationTests.dll
+C:\Users\BB7211\source\repos\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\net7.0\xunit.runner.visualstudio.testadapter.dll

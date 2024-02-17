@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using SocialMedia.Core.Interfaces;
+using SocialMedia.Infraestructure.Data;
 using SocialMedia.Infraestructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +13,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<IPostRepository, PostRepository>(); // Aqui se da a entender que abstracción se va usar con la implementación
 // siendo IPostRepository la abstracción y PostRepository la implementación 
+
+builder.Services.AddDbContext<SocialMediaContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SocialMedia"));
+});
 
 var app = builder.Build();
 
