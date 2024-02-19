@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BB7211\\source\\repos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {}
+    "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BB7211\\source\\repos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {
+    "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BB7211\\source\\repos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
         "projectName": "SocialMedia.UnitTests",
-        "projectPath": "C:\\Users\\BB7211\\source\\repos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\BB7211\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BB7211\\source\\repos\\SocialMedia\\SocialMedia.UnitTests\\obj\\",
+        "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\jhoja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BB7211\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

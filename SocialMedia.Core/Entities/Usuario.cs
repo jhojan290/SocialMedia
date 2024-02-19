@@ -19,7 +19,7 @@ public partial class Usuario
 
     public bool Activo { get; set; }
 
-    public virtual ICollection<Comentario> Comentarios { get; } = new List<Comentario>();
+    public virtual ICollection<Comment> Comentarios { get; } = new List<Comment>();
 
-    public virtual ICollection<Publicacion> Publicacions { get; } = new List<Publicacion>();
+    public virtual ICollection<Post> Publicacions { get; } = new List<Post>();
 }

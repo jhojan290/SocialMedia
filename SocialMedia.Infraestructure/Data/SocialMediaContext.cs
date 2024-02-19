@@ -16,54 +16,54 @@ public partial class SocialMediaContext : DbContext
     {
     }
 
-    public virtual DbSet<Comentario> Comentarios { get; set; }
+    public virtual DbSet<Comment> Comentarios { get; set; }
 
-    public virtual DbSet<Publicacion> Publicacion { get; set; }
+    public virtual DbSet<Post> Publicacion { get; set; }
 
     public virtual DbSet<Usuario> Usuarios { get; set; }
 
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Comentario>(entity =>
+        modelBuilder.Entity<Comment>(entity =>
         {
-            entity.HasKey(e => e.IdComentario);
+            entity.HasKey(e => e.CommentId);
 
-            entity.ToTable("Comentario");
+            entity.ToTable("Comments");
 
-            entity.Property(e => e.IdComentario).ValueGeneratedNever();
-            entity.Property(e => e.Descripcion)
+            entity.Property(e => e.CommentId).ValueGeneratedNever();
+            entity.Property(e => e.Description)
                 .HasMaxLength(500)
                 .IsUnicode(false);
-            entity.Property(e => e.Fecha).HasColumnType("datetime");
+            entity.Property(e => e.Date).HasColumnType("datetime");
 
-            entity.HasOne(d => d.IdPublicacionNavigation).WithMany(p => p.Comentarios)
+            entity.HasOne(d => d.Post).WithMany(p => p.Comentarios)
                 .HasForeignKey(d => d.IdPublicacion)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Comentario_Publicacion");
 
-            entity.HasOne(d => d.IdUsuarioNavigation).WithMany(p => p.Comentarios)
-                .HasForeignKey(d => d.IdUsuario)
+            entity.HasOne(d => d.User).WithMany(p => p.Comentarios)
+                .HasForeignKey(d => d.UserId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Comentario_Usuario");
         });
 
-        modelBuilder.Entity<Publicacion>(entity =>
+        modelBuilder.Entity<Post>(entity =>
         {
-            entity.HasKey(e => e.IdPublicacion);
+            entity.HasKey(e => e.PostId);
 
-            entity.ToTable("Publicacion");
+            entity.ToTable("Post");
 
-            entity.Property(e => e.Descripcion)
+            entity.Property(e => e.Description)
                 .HasMaxLength(1000)
                 .IsUnicode(false);
-            entity.Property(e => e.Fecha).HasColumnType("datetime");
-            entity.Property(e => e.Imagen)
+            entity.Property(e => e.Date).HasColumnType("datetime");
+            entity.Property(e => e.Image)
                 .HasMaxLength(500)
                 .IsUnicode(false);
 
-            entity.HasOne(d => d.IdUsuarioNavigation).WithMany(p => p.Publicacions)
-                .HasForeignKey(d => d.IdUsuario)
+            entity.HasOne(d => d.User).WithMany(p => p.Publicacions)
+                .HasForeignKey(d => d.UserId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Publicacion_Usuario");
         });
