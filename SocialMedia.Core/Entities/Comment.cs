@@ -19,5 +19,5 @@ public partial class Comment
 
     public virtual Post Post { get; set; } = null!;
 
-    public virtual Usuario User { get; set; } = null!;
+    public virtual User User { get; set; } = null!;
 }

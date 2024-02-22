@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\SocialMedia.Core",
+    "\\SocialMedia.Core\\Entities",
     "\\SocialMedia.Infraestructure",
+    "\\SocialMedia.Infraestructure\\Data",
     "\\SocialMedia.Infraestructure\\Repositories"
   ],
-  "SelectedNode": "\\SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
+  "SelectedNode": "\\SocialMedia.sln",
   "PreviewInSolutionExplorer": false
 }

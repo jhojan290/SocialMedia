@@ -20,7 +20,7 @@ namespace SocialMedia.Infraestructure.Repositories
         }
         public async Task<IEnumerable<Post>> GetPosts()
         {
-            var posts = await _context.Publicacion.ToListAsync();
+            var posts = await _context.Posts.ToListAsync();
             /*var posts = Enumerable.Range(1, 10).Select(x => new Post
             {
                 PostId = x,
@@ -35,5 +35,10 @@ namespace SocialMedia.Infraestructure.Repositories
             return posts;
         }
 
+        public async Task<Post> GetPost(int id)
+        {
+            var post = await _context.Posts.FirstOrDefaultAsync(x => x.PostId == id);
+            return post;
+        }
     }
 }

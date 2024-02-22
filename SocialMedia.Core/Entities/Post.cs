@@ -22,5 +22,5 @@ public partial class Post
 
     public virtual ICollection<Comment> Comments { get; set; }
 
-    public virtual Usuario User { get; set; } = null!;
+    public virtual User User { get; set; } = null!;
 }
