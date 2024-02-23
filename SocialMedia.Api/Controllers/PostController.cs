@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SocialMedia.Core.Entities;
 using SocialMedia.Core.Interfaces;
 using SocialMedia.Infraestructure.Repositories;
 
@@ -26,6 +27,13 @@ namespace SocialMedia.Api.Controllers
         public async Task<IActionResult> GetPost(int id)
         {
             var post = await _postRepository.GetPost(id);
+            return Ok(post);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Post(Post post)
+        {
+            await _postRepository.InsertPost(post);
             return Ok(post);
         }
     }

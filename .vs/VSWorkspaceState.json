@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\SocialMedia.Api",
+    "\\SocialMedia.Api\\Controllers",
     "\\SocialMedia.Core",
     "\\SocialMedia.Core\\Entities",
     "\\SocialMedia.Infraestructure",

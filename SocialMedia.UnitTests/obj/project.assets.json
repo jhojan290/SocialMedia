@@ -936,24 +936,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhoja\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\BB7211\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
       "projectName": "SocialMedia.UnitTests",
-      "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\jhoja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.UnitTests\\obj\\",
+      "projectPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\BB7211\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jhoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\BB7211\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
