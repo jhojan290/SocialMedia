@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
 
 namespace SocialMedia.Core.Entities;
 
@@ -11,13 +10,13 @@ public partial class Comment
 
     public int UserId { get; set; }
 
-    public string Description { get; set; } = null!;
+    public string Description { get; set; } 
 
     public DateTime Date { get; set; }
 
     public bool IsActive { get; set; }
 
-    public virtual Post Post { get; set; } = null!;
+    public virtual Post Post { get; set; } 
 
-    public virtual User User { get; set; } = null!;
+    public virtual User User { get; set; } 
 }

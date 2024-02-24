@@ -27,7 +27,7 @@ public partial class SocialMediaContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
 
-        modelBuilder.ApplyConfiguration(new CommentConfigurationcs());
+        modelBuilder.ApplyConfiguration(new CommentConfiguration());
 
         modelBuilder.ApplyConfiguration(new PostConfiguration());
 

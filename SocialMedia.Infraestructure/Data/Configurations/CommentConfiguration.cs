@@ -4,7 +4,7 @@ using SocialMedia.Core.Entities;
 
 namespace SocialMedia.Infraestructure.Data.Configurations
 {
-    public class CommentConfigurationcs : IEntityTypeConfiguration<Comment>
+    public class CommentConfiguration : IEntityTypeConfiguration<Comment>
     {
         public void Configure(EntityTypeBuilder<Comment> builder)
         {

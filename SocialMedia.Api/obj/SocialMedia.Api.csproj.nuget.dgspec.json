@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj": {}
+    "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj": {
+    "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj",
+        "projectUniqueName": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj",
         "projectName": "SocialMedia.Api",
-        "projectPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj",
-        "packagesPath": "C:\\Users\\BB7211\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Api\\obj\\",
+        "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj",
+        "packagesPath": "C:\\Users\\jhoja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BB7211\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
               },
-              "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj"
+              "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj"
               }
             }
           }
@@ -104,17 +108,21 @@
         }
       }
     },
-    "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+    "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectUniqueName": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
-        "projectPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
-        "packagesPath": "C:\\Users\\BB7211\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Core\\obj\\",
+        "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "packagesPath": "C:\\Users\\jhoja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BB7211\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,17 +172,21 @@
         }
       }
     },
-    "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj": {
+    "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj",
         "projectName": "SocialMedia.Infraestructure",
-        "projectPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\BB7211\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\jhoja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BB7211\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -188,8 +200,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "C:\\Users\\BB7211\\Documents\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
