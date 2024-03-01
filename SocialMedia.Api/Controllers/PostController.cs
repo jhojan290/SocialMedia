@@ -1,5 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Hosting;
+using SocialMedia.Core.DTOs;
 using SocialMedia.Core.Entities;
 using SocialMedia.Core.Interfaces;
 using SocialMedia.Infraestructure.Repositories;
@@ -8,31 +11,72 @@ namespace SocialMedia.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PostController : ControllerBase
+    public class PostController : ControllerBase /*Heredar de Controller sirve para una api que trabajará con un modelo MVC
+                                                  Heredar de ControllerBase sirve para cuando solo se hará uso de una api sin MVC*/
     {
         private readonly IPostRepository _postRepository;
-        public PostController(IPostRepository postRepository)
+        private readonly IMapper _mapper;
+        public PostController(IPostRepository postRepository, IMapper mapper)
         {
             _postRepository = postRepository;
+            _mapper = mapper;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetPosts()
         {
             var posts = await _postRepository.GetPosts();
-            return Ok(posts);
+            var postsDto = _mapper.Map<IEnumerable<PostDto>>(posts);
+            /*var postsDto = posts.Select(x => new PostDto
+            {
+                PostId = x.PostId,
+                Date = x.Date,
+                Description = x.Description,
+                Image = x.Image,
+                UserId = x.UserId,
+            });*/
+            return Ok(postsDto);
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetPost(int id)
         {
             var post = await _postRepository.GetPost(id);
-            return Ok(post);
+
+            var postsDto = _mapper.Map<PostDto>(post);
+
+            /*var postDto = new PostDto
+            {
+                PostId = post.PostId,
+                Date = post.Date,
+                Description = post.Description,
+                Image = post.Image,
+                UserId = post.UserId,
+            };*/
+
+            return Ok(postsDto);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post(Post post)
+        public async Task<IActionResult> Post(PostDto postDto)
         {
+
+            /*if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState); // Al no contar con las validaciones del decorador [apiController] con este fragmento de código estamos indicando
+                                               // que la validación del modelo se hará de manera manual
+            }*/
+
+            var post = _mapper.Map<Post>(postDto);
+
+            /*var post = new Post
+            {
+                Date = postDto.Date,
+                Description = postDto.Description,
+                Image = postDto.Image,
+                UserId = postDto.UserId,
+            };*/
+
             await _postRepository.InsertPost(post);
             return Ok(post);
         }

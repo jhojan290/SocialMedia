@@ -160,3 +160,12 @@ C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\obj\Debug\net7.0\
 C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\obj\Debug\net7.0\SocialMedia.Api.pdb
 C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\obj\Debug\net7.0\SocialMedia.Api.genruntimeconfig.cache
 C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\obj\Debug\net7.0\ref\SocialMedia.Api.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\jhoja\OneDrive\Documentos\SocialMedia\SocialMedia.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
