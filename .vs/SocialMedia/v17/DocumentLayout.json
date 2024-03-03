@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.api\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\validators\\postvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\validators\\postvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.core\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.core\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.core\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.core\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.core\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\data\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\data\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\Script\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.core\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\data\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\data\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.core\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFFF8BAC-C80F-45C0-A97F-B586977C12FB}|SocialMedia.Core\\SocialMedia.Core.csproj|solutionrelative:socialmedia.core\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\data\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\data\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -51,28 +71,12 @@
       "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\validators\\postvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\validators\\postvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\Script\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.api\\socialmedia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\socialmedia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.infraestructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F45D9504-25AA-43FA-9A49-EB3ADA6B81B1}|SocialMedia.Infraestructure\\SocialMedia.Infraestructure.csproj|solutionrelative:socialmedia.infraestructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|c:\\users\\jhoja\\onedrive\\documentos\\socialmedia\\socialmedia.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EB10597-B27F-4374-92CA-DBB39AD467A3}|SocialMedia.Api\\SocialMedia.Api.csproj|solutionrelative:socialmedia.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,98 +94,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PostDto.cs",
-              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\DTOs\\PostDto.cs",
-              "RelativeDocumentMoniker": "SocialMedia.Core\\DTOs\\PostDto.cs",
-              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\DTOs\\PostDto.cs",
-              "RelativeToolTip": "SocialMedia.Core\\DTOs\\PostDto.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\Responses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Api\\Responses\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\Responses\\ApiResponse.cs",
+              "RelativeToolTip": "SocialMedia.Api\\Responses\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T07:20:50.657Z",
+              "WhenOpened": "2024-03-03T05:18:45.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "SocialMedia.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\User.cs",
-              "RelativeToolTip": "SocialMedia.Core\\Entities\\User.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T03:06:09.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CommentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\CommentConfiguration.cs",
-              "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Data\\Configurations\\CommentConfiguration.cs",
-              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\CommentConfiguration.cs",
-              "RelativeToolTip": "SocialMedia.Infraestructure\\Data\\Configurations\\CommentConfiguration.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T05:34:09.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PostConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\PostConfiguration.cs",
-              "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Data\\Configurations\\PostConfiguration.cs",
-              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\PostConfiguration.cs",
-              "RelativeToolTip": "SocialMedia.Infraestructure\\Data\\Configurations\\PostConfiguration.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA3wBcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T05:25:00.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\Program.cs",
               "RelativeDocumentMoniker": "SocialMedia.Api\\Program.cs",
               "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\Program.cs",
               "RelativeToolTip": "SocialMedia.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T19:04:52.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "SocialMedia.Core\\Entities\\Post.cs",
               "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\Post.cs",
               "RelativeToolTip": "SocialMedia.Core\\Entities\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA+AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T03:06:13.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\Comment.cs",
-              "RelativeDocumentMoniker": "SocialMedia.Core\\Entities\\Comment.cs",
-              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\Comment.cs",
-              "RelativeToolTip": "SocialMedia.Core\\Entities\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T03:29:10.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "ValidationFilter.cs",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Filters\\ValidationFilter.cs",
               "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Filters\\ValidationFilter.cs",
@@ -189,25 +141,125 @@
               "RelativeToolTip": "SocialMedia.Infraestructure\\Filters\\ValidationFilter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T18:45:26.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T18:45:26.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "IPostRepository.cs",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Interfaces\\IPostRepository.cs",
               "RelativeDocumentMoniker": "SocialMedia.Core\\Interfaces\\IPostRepository.cs",
               "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Interfaces\\IPostRepository.cs",
               "RelativeToolTip": "SocialMedia.Core\\Interfaces\\IPostRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T05:47:41.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Api\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\Controllers\\PostController.cs",
+              "RelativeToolTip": "SocialMedia.Api\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwG0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:13:45.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Validators\\PostValidator.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Validators\\PostValidator.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Validators\\PostValidator.cs",
+              "RelativeToolTip": "SocialMedia.Infraestructure\\Validators\\PostValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:05:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\User.cs",
+              "RelativeToolTip": "SocialMedia.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T03:06:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:58:21.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\PostConfiguration.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Data\\Configurations\\PostConfiguration.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\PostConfiguration.cs",
+              "RelativeToolTip": "SocialMedia.Infraestructure\\Data\\Configurations\\PostConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA3wBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:25:00.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Core\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\Entities\\Comment.cs",
+              "RelativeToolTip": "SocialMedia.Core\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T03:29:10.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\CommentConfiguration.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Data\\Configurations\\CommentConfiguration.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\CommentConfiguration.cs",
+              "RelativeToolTip": "SocialMedia.Infraestructure\\Data\\Configurations\\CommentConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:34:09.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Core\\DTOs\\PostDto.cs",
+              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Core\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "SocialMedia.Core\\DTOs\\PostDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T07:20:50.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\appsettings.json",
               "RelativeDocumentMoniker": "SocialMedia.Api\\appsettings.json",
@@ -215,12 +267,11 @@
               "RelativeToolTip": "SocialMedia.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-22T05:14:41.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T05:14:41.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "SocialMediaContext.cs",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\SocialMediaContext.cs",
               "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Data\\SocialMediaContext.cs",
@@ -228,12 +279,11 @@
               "RelativeToolTip": "SocialMedia.Infraestructure\\Data\\SocialMediaContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAIwBcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T02:58:16.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T02:58:16.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "AutomapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Mappings\\AutomapperProfile.cs",
               "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Mappings\\AutomapperProfile.cs",
@@ -241,38 +291,11 @@
               "RelativeToolTip": "SocialMedia.Infraestructure\\Mappings\\AutomapperProfile.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T08:16:44.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T08:16:44.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
-              "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
-              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
-              "RelativeToolTip": "SocialMedia.Infraestructure\\Repositories\\PostRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T02:58:21.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PostValidator.cs",
-              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Validators\\PostValidator.cs",
-              "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Validators\\PostValidator.cs",
-              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Validators\\PostValidator.cs",
-              "RelativeToolTip": "SocialMedia.Infraestructure\\Validators\\PostValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T19:05:50.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "SocialMedia.Api.csproj",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj",
               "RelativeDocumentMoniker": "SocialMedia.Api\\SocialMedia.Api.csproj",
@@ -284,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Infraestructure\\Data\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "SocialMedia.Infraestructure\\Data\\Configurations\\UserConfiguration.cs",
@@ -296,19 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "SocialMedia.Api\\Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\SocialMedia.Api\\Controllers\\PostController.cs",
-              "RelativeToolTip": "SocialMedia.Api\\Controllers\\PostController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T05:13:45.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "SQLQuery1.sql",
               "DocumentMoniker": "C:\\Users\\jhoja\\OneDrive\\Documentos\\SocialMedia\\Script\\SQLQuery1.sql",
               "RelativeDocumentMoniker": "Script\\SQLQuery1.sql",
