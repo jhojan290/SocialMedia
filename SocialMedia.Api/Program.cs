@@ -2,8 +2,10 @@ using AutoMapper;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using SocialMedia.Core.Interfaces;
+using SocialMedia.Core.Services;
 using SocialMedia.Infraestructure.Data;
 using SocialMedia.Infraestructure.Filters;
+using SocialMedia.Infraestructure.Interfaces;
 using SocialMedia.Infraestructure.Repositories;
 using SocialMedia.Infraestructure.Validators;
 
@@ -25,6 +27,8 @@ builder.Services.AddControllers().AddNewtonsoftJson(options =>
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddTransient<IUserRepository, UserRepository>();
+builder.Services.AddTransient<IPostService, PostService>();
 builder.Services.AddTransient<IPostRepository, PostRepository>(); // Aqui se da a entender que abstracción se va usar con la implementación
 // siendo IPostRepository la abstracción y PostRepository la implementación 
 
