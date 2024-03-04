@@ -42,12 +42,8 @@ namespace SocialMedia.Infraestructure.Repositories
 
         public async Task SaveChangesAsync()
         {
-            _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
 
-        void IUnitOfWork.SaveChangesAsync()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

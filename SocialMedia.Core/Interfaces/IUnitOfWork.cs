@@ -12,6 +12,6 @@ namespace SocialMedia.Core.Interfaces
 
         void SaveChanges();
 
-        void SaveChangesAsync();
+        Task SaveChangesAsync();
     }
 }

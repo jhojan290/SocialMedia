@@ -4,6 +4,7 @@
     "\\SocialMedia.Api",
     "\\SocialMedia.Api\\Controllers",
     "\\SocialMedia.Core",
+    "\\SocialMedia.Core\\DTOs",
     "\\SocialMedia.Core\\Entities",
     "\\SocialMedia.Core\\Services",
     "\\SocialMedia.Infraestructure",
